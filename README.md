@@ -34,14 +34,19 @@ Requirements
 	
 
 How to attach to your System
+
 #ubuntu
+
 	git clone https://github.com/saichandrareddy1/MailSender.git
 	
 #for windows
+
 	down load it from https://github.com/saichandrareddy1/MailSender.git
 	
 Keep this file in your CNN model directory
-use 
+
+Import method 
+
 	import Mail
 
 Thanks
