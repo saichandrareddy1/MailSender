@@ -1,5 +1,11 @@
 # MailSender
 This mainly used for to send accuracy, epochs to your mail 
+ 
+To use this enable google authentication for secure apps
+
+fROM HERE
+
+	https://myaccount.google.com/lesssecureapps?pli=1
 
 
 This is used for Deep learning Engineers Mainly because every one need to know about the accuracy of validation and train datasets when they are training for CNN 
